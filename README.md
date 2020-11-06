@@ -17,8 +17,6 @@ execute on any desktop computer (running Windows, Linux, or MacOS).
 
 Here is the code structure:
 
-is an example run for the C++ version of the HsmTst code:
-
 ```
 OOP-in-C
 ¦
