@@ -1,28 +1,19 @@
-[![Object-Oriented Programming in C](img/AN_OOP-in-C.jpg)](AN_OOP_in_C.pdf)
+[![Object-Oriented Programming in C](img/thumbnail.jpg)](https://www.state-machine.com/oop)
 
 
-# Application Note:
-# Object-Oriented Programming in C
+# The Accompanying Code
 
-This [Application Note](AN_OOP_in_C.pdf) describes simple and efficient
-implementation of main Object-Oriented concepts of encapsulation,
-single inheritance and polymorphism in portable ISO-compliant C.
-This implementation is specifically suitable for real-time embedded systems.
-
-
-## The Accompanying Code
-
-The AppNote is accompanied with actual code that you can compile and
-execute on any desktop computer (running Windows, Linux, or MacOS).
+This repository provides the code accompanying the article:
+["Object-Oriented Programming"](https://www.state-machine.com/oop).
+The code can be compiled and executed on any desktop
+computer (running Windows, Linux, or macOS).
 
 Here is the code structure:
 
 ```
 OOP-in-C
-¦
-¦   AN_OOP_in_C.pdf
-¦   LICENSE
-¦   README.md
++---doc
+¦       AN_OOP_in_C.pdf
 ¦
 +---encapsulation
 ¦       main.c
@@ -52,8 +43,28 @@ OOP-in-C
         shape.h
 ```
 
+# Building and Running the Code
 
-## Videos
+Each of the sub-directories contains `make.bat` (for Windows) that
+allows you to build and run the provided examples. (On Linux/macOS
+you can execute the commands from `make.bat` directly from the tarminal).
+
+For example:
+
+```
+C:\GitHub\OOP-in-C>cd encapsulation
+C:\GitHub\OOP-in-C\encapsulation>make
+
+gcc shape.c main.c -o oop_in_c.exe
+oop_in_c.exe
+
+Shape s1(x=0,y=1)
+Shape s2(x=-1,y=2)
+Shape s1(x=2,y=-3)
+Shape s2(x=0,y=0)
+```
+
+# Videos
 
 The concepts of OOP in C have been explained in a series of videos:
 
@@ -63,6 +74,16 @@ The concepts of OOP in C have been explained in a series of videos:
 - [OOP part-4 "Polymorphism in C"](https://youtu.be/2v_qM5SJDlY)
 
 
-## Contact Information
+# The PDF Version
 
-- [state-machine.com](https://www.state-machine.com/)
+The PDF version of the 
+["Object-Oriented Programming" article](https://www.state-machine.com/oop)
+is provided in the directory `doc`
+
+[![Object-Oriented Programming in C](img/AN_OOP-in-C.jpg)](doc/AN_OOP_in_C.pdf)
+
+
+# Contact Information
+
+- [state-machine.com](https://www.state-machine.com)
+- [state-machine.com](https://www.state-machine.com/oop)
