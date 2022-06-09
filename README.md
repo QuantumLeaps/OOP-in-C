@@ -1,8 +1,11 @@
 [![Object-Oriented Programming in C](img/thumbnail.jpg)](https://www.state-machine.com/oop)
 
 
-# The Accompanying Code
+## Brought to you by:
+[![Quantum Leaps](https://www.state-machine.com/attachments/logo_ql_400.png)](https://www.state-machine.co)
 
+---------------------------------------------------------------------
+# The Accompanying Code
 This repository provides the code accompanying the article:
 ["Object-Oriented Programming"](https://www.state-machine.com/oop).
 The code can be compiled and executed on any desktop
@@ -44,7 +47,6 @@ OOP-in-C
 ```
 
 # Building and Running the Code
-
 Each of the sub-directories contains `make.bat` (for Windows) that
 allows you to build and run the provided examples. (On Linux/macOS
 you can execute the commands from `make.bat` directly from the tarminal).
@@ -65,7 +67,6 @@ Shape s2(x=0,y=0)
 ```
 
 # Videos
-
 The concepts of OOP in C have been explained in a series of videos:
 
 - [OOP part-1 "Encapsulation"](https://youtu.be/dSLodtKuung)
@@ -75,7 +76,6 @@ The concepts of OOP in C have been explained in a series of videos:
 
 
 # The PDF Version
-
 The PDF version of the 
 ["Object-Oriented Programming" article](https://www.state-machine.com/oop)
 is provided in the directory `doc`
@@ -84,6 +84,5 @@ is provided in the directory `doc`
 
 
 # Contact Information
-
 - [state-machine.com](https://www.state-machine.com)
 - [state-machine.com](https://www.state-machine.com/oop)
