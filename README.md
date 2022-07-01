@@ -1,10 +1,9 @@
-[![Object-Oriented Programming in C](img/thumbnail.jpg)](https://www.state-machine.com/oop)
-
-
 ## Brought to you by:
-[![Quantum Leaps](https://www.state-machine.com/attachments/logo_ql_400.png)](https://www.state-machine.co)
+[![Quantum Leaps](https://www.state-machine.com/attachments/logo_ql_400.png)](https://www.state-machine.com)
 
 ---------------------------------------------------------------------
+[![Object-Oriented Programming in C](img/thumbnail.jpg)](https://www.state-machine.com/oop)
+
 # The Accompanying Code
 This repository provides the code accompanying the article:
 ["Object-Oriented Programming"](https://www.state-machine.com/oop).
