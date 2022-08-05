@@ -82,6 +82,12 @@ is provided in the directory `doc`
 [![Object-Oriented Programming in C](img/AN_OOP-in-C.jpg)](doc/AN_OOP_in_C.pdf)
 
 
+# How to Help this Project?
+If you like this project, please give it a star (in the upper-right corner of your browser window):
+
+![GitHub star](img/github-star.jpg)
+
+
 # Contact Information
 - [state-machine.com](https://www.state-machine.com)
 - [state-machine.com](https://www.state-machine.com/oop)
