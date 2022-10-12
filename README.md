@@ -56,8 +56,8 @@ For example:
 C:\GitHub\OOP-in-C>cd encapsulation
 C:\GitHub\OOP-in-C\encapsulation>make
 
-gcc shape.c main.c -o oop_in_c.exe
-oop_in_c.exe
+gcc shape.c main.c -o oop_in_c
+oop_in_c
 
 Shape s1(x=0,y=1)
 Shape s2(x=-1,y=2)
