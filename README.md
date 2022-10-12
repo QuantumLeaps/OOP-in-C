@@ -90,4 +90,4 @@ If you like this project, please give it a star (in the upper-right corner of yo
 
 # Contact Information
 - [state-machine.com](https://www.state-machine.com)
-- [state-machine.com](https://www.state-machine.com/oop)
+- [state-machine.com/oop](https://www.state-machine.com/oop)
