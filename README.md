@@ -1,44 +1,45 @@
 ## Brought to you by:
 [![Quantum Leaps](https://www.state-machine.com/attachments/logo_ql_400.png)](https://www.state-machine.com)
+<hr>
 
----------------------------------------------------------------------
-[![Object-Oriented Programming in C](img/thumbnail.jpg)](https://www.state-machine.com/oop)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuantumLeaps/OOP-in-C)](https://github.com/QuantumLeaps/OOP-in-C/releases/latest)
+[![GitHub](https://img.shields.io/github/license/QuantumLeaps/OOP-in-C)](https://github.com/QuantumLeaps/OOP-in-C/blob/master/LICENSE)
 
-# The Accompanying Code
+
+# Object-Oriented Programming in C
 This repository provides the code accompanying the article:
 ["Object-Oriented Programming"](https://www.state-machine.com/oop).
 The code can be compiled and executed on any desktop
 computer (running Windows, Linux, or macOS).
 
+<p align="center"><img src="img/thumbnail.jpg"/></p>
+
 Here is the code structure:
 
 ```
-OOP-in-C
-+---doc
+OOP-in-C/
++---doc/
 ¦       AN_OOP_in_C.pdf
 ¦
-+---encapsulation
++---encapsulation/
 ¦       main.c
 ¦       make.bat
-¦       oop_in_c.exe
 ¦       shape.c
 ¦       shape.h
 ¦
-+---inheritance
++---inheritance/
 ¦       main.c
 ¦       make.bat
-¦       oop_in_c.exe
 ¦       rect.c
 ¦       rect.h
 ¦       shape.c
 ¦       shape.h
 ¦
-+---polymorphism
++---polymorphism/
         circle.c
         circle.h
         main.c
         make.bat
-        oop_in_c.exe
         rect.c
         rect.h
         shape.c
@@ -75,11 +76,18 @@ The concepts of OOP in C have been explained in a series of videos:
 
 
 # The PDF Version
-The PDF version of the 
-["Object-Oriented Programming" article](https://www.state-machine.com/oop)
+The PDF version of the
+["Object-Oriented Programming" article](doc/AN_OOP_in_C.pdf)
 is provided in the directory `doc`
 
 [![Object-Oriented Programming in C](img/AN_OOP-in-C.jpg)](doc/AN_OOP_in_C.pdf)
+
+
+# Licensing
+The OOP-in-C source code and examples are released under the terms of the
+permissive [MIT open source license](LICENSE). Please note that the
+attribution clause in the MIT license requires you to preserve the
+original copyright notice in all changes and derivate works.
 
 
 # How to Help this Project?
